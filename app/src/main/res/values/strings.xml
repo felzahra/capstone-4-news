@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Easy News</string>
+    <string name="have_account">Already have account</string>
+    <string name="need_account">Need a new account?</string>
+    <string name="welcome">Welcome to Easy News</string>
+    <string name="create_new_account">Create new account</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="login">Login</string>
+    <string name="email">Your Email</string>
+    <string name="forgot_pass">Forgot Password?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="send_email">Send email</string>
+    <string name="error_message">You have no internet connection</string>
+    <string name="submit_comment">Submit comment</string>
+    <string name="no_comments_posted">No comment posted</string>
+    <string name="comments_posted">Comments posted</string>
+    <string name="title_of_comment">Title of comment</string>
+    <string name="body_of_comment">Body of comment</string>
+
+    <string name="usa_today">USA Today</string>
+    <string name="bbc_news">BBC News</string>
+    <string name="aljazeera">AlJazeera</string>
+    <string name="daily_mail">Daily Mail</string>
+    <string name="abc_news">ABC News</string>
+    <string name="business_insider">Business Insider</string>
+    <string name="cnn">CNN</string>
+    <string name="fox_news">Fox News</string>
+    <string name="independent">Independent</string>
+    <string name="google_news">google-news</string>
+
+
+    <string name="news_description">News Description</string>
+    <string name="comment_detail">Comment Detail</string>
+    <string name="favourite_toggle_btn">Favourite Toggle Button</string>
+    <string name="detail_activity_image">Detail Activity Image</string>
+    <string name="logout">Log Out</string>
+    <string name="favourite_news">Favorite News</string>
+    <string name="the_new_york_times">The New York Times</string>
+    <string name="the_huffington_post">The Huffington Post</string>
+    <string name="national_geographic">National Geographic</string>
+    <string name="the_wall_street_journal">The Wall Street Journal</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="hint_email">email</string>
+    <string name="hint_password">Password (more than 6 characters)</string>
+    <string name="login_to_your_account">Login to your account</string>
+    <string name="view_article_in_browser">View article in browser</string>
+    <string name="hint_username">Username</string>
+    <string name="display_name">Display name</string>
+    <string name="recent_news">Recent news</string>
+    <string name="commments">Comments</string>
+    <string name="share_content">Share content</string>
+    <string name="registering_user">Registering user</string>
+    <string name="waiting_for_registration">\"Please wait while we create your account\"</string>
+    <string name="fill_all_fields">Fill all fields</string>
+    <string name="device_not_supported">device not supported</string>
+    <string name="required">Required</string>
+    <string name="can_not_login">Can not login</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="logging_in">Logging in</string>
+    <string name="check_credentials">Please wait while we check your credentials</string>
+    <string name="login_title">Login</string>
+    <string name="comment_title">Add Comment</string>
+    <string name="posting_comment">Posting ...</string>
+    <string name="forgot_password_title">Forgot Password</string>
+    <string name="verify">Verifying...</string>
+    <string name="wait_for_instructions">Please wait to send instructions in your email.com</string>
+    <string name="success_email">Reset password instructions has sent to your email</string>
+    <string name="email_do_not_exist">Email doesn\'t exist</string>
+    <string name="article_deleted">Article deleted from favourites</string>
+    <string name="widget_news_image">Widget news</string>
+    <string name="published_date_icon">Published date icon</string>
+    <string name="no_added_as_fav">You haven\'t added a news article as favourite</string>
+    <string name="comma">\", \"</string>
+</resources>
